@@ -31,7 +31,7 @@ Following libraries are required before you run the source code in src.
 If you want to know the process to get the final results, please use Jupyter Notebook to open /doc/DataExplorationAndModelBuilding.ipynb
 
 ```
-In terminal, please type **jupyter notebook**, and after lauch jupyter notebook, please open the file in the web browser.
+In terminal, please type "jupyter notebook", and after lauch jupyter notebook, please open the file in the web browser.
 ```
 
 ## Running the evaluation script
